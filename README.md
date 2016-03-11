@@ -3,4 +3,4 @@ study drain event of nodejs
 
 
 # Reference
-[我nodejs中drain事件的偶遇]()
+[和 nodejs 中 drain 事件的偶遇]()
